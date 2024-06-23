@@ -17,7 +17,7 @@ All you need is a web browser.
 
 ## Launch the calculator:
 
-Open index.html in your web browser.
+Download index.html, style.css and main.js in one single folder and just open in your web browser.
 
 ## 🛠️ Usage
 1. Open the calculator in your browser.
